@@ -12,3 +12,8 @@ Baseline com Gradient Boosting (CV accuracy: 0.836).
 - `notebooks/01_eda.ipynb` — EDA + baseline
 - `outputs/submission_baseline.csv` — primeira submissão
 - `requirements.txt` — dependências
+
+## Pontuação Pública - submissão
+- Em 09 de agosto de 2025: 0.75358
+
+  
