@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+pip-wheel-metadata/
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+environment/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Dados (não versionar CSVs do Kaggle)
+data/*
+!data/README.md
+
+# Saídas (versone só o que quiser manter)
+outputs/*
+!outputs/.gitkeep
+
+# SO
+.DS_Store
+Thumbs.db
